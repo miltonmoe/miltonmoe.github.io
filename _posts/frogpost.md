@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "frogpost"
+date:   2026-02-22 02:50:08 +0100
+categories: frog
+---
+This is a simple test post. It has a frog.
+
+![[ResizedImage_2026-02-22_02-47-40_4216[2].webp]]
+
+What a nice frog. It sits on a wet road at night. 
+
+Here is another picture of the very same frog.
+
+![[ResizedImage_2026-02-22_02-47-38_7405[1].webp]] 
+
+Thats it for toady.
