@@ -2,7 +2,7 @@
 layout: post
 title: getting there
 date: 2026-03-04 07:15
-tags: post
+tag: post
 ---
 To get from Germany to Japan includes quite a sizable set of different transportation modes. Going from my hometown near Frankfurt, Germany to my hotel in Kumamoto, Japan took the follwing steps.
 
